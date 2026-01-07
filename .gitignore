@@ -18,3 +18,7 @@ go.work
 # IDE
 .idea/
 .vscode/
+
+# Temporary files
+tmp/*
+!tmp/.keep
